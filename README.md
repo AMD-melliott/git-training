@@ -118,44 +118,6 @@ Rebrand a product by replacing text across multiple files simultaneously.
 
 ---
 
-## Workshop Materials
-
-### Presentation Slides
-The workshop includes a 1-hour presentation covering:
-- Introduction to docs-as-code workflows
-- Why Git and GitHub matter for documentation
-- Markdown and reStructuredText basics
-- Live demonstrations
-- Q&A
-
-**[View Outline](./Git%20GitHub%20Workshop%20Outline.md)**
-
-### Additional Exercise Ideas
-- **[Exercise 1 - Favorite Restaurants Details](./GitHub%20Workshop%20Exercise%201.md)**
-- **[Exercise 2 - VS Code Concepts](./GitHub%20Workshop%20Exercise%202.md)**
-
----
-
-## Learning Path
-
-We recommend following this progression:
-
-```
-1. Favorite Restaurants (Fundamentals)
-          ↓
-2. Style Guide Police (VS Code GUI)
-          ↓
-3. Merge Conflict Simulator (Conflict Resolution)
-          ↓
-4. Release Notes Compiler (Documentation)
-          ↓
-5. Global Find & Replace (Advanced Operations)
-```
-
-Each exercise builds on skills learned in previous exercises.
-
----
-
 ## What is Docs-as-Code?
 
 **Docs-as-code** means treating documentation with the same practices used for software development:
@@ -250,32 +212,6 @@ Lightweight markup language for formatting text.
 
 ---
 
-## Workshop Schedule
-
-### Suggested 3-Hour Workshop
-
-**Hour 1: Fundamentals (60 min)**
-- Presentation: Git, GitHub, and Docs-as-Code (20 min)
-- Exercise 1: Favorite Restaurants (40 min)
-
-**Hour 2: VS Code & Conflicts (60 min)**
-- Exercise 2: Style Guide Police (30 min)
-- Exercise 3: Merge Conflict Simulator (30 min)
-
-**Hour 3: Advanced Skills (60 min)**
-- Exercise 4: Release Notes Compiler (30 min)
-- Exercise 5: Global Find & Replace (20 min)
-- Wrap-up and Q&A (10 min)
-
-### Self-Paced Learning
-
-Take your time with each exercise! Most students complete:
-- Beginner pace: 4-5 hours total
-- Comfortable pace: 3-4 hours total
-- Experienced pace: 2-3 hours total
-
----
-
 ## Key Concepts
 
 ### Repository (Repo)
@@ -309,71 +245,5 @@ When Git can't automatically merge changes and needs your help.
 A comparison showing what changed between two versions.
 
 ---
-
-## After the Workshop
-
-**Practice regularly:**
-- Contribute to open-source documentation
-- Create a personal documentation repository
-- Use Git for your own projects
-
-**Join the community:**
-- [Write the Docs Community](https://www.writethedocs.org/slack/)
-- [GitHub Community](https://github.community/)
-- Local Git/GitHub meetups
-
-**Keep learning:**
-- Advanced Git topics (rebasing, cherry-picking, etc.)
-- GitHub Actions for automation
-- Static site generators (Jekyll, Hugo)
-- Documentation platforms (ReadTheDocs, GitHub Pages)
-
----
-
-## Feedback & Contributions
-
-We welcome feedback and contributions to improve these workshops!
-
-**Found an issue?**
-- Open an issue on the relevant exercise repository
-- Suggest improvements via pull request
-
-**Want to contribute?**
-- Fix typos or improve instructions
-- Add new exercises or challenges
-- Share your experience completing the workshops
-
----
-
-## Credits
-
-**Workshop Created By:** AMD Documentation Team
-
-**Built With:**
-- Git & GitHub
-- VS Code
-- Markdown
-- Love for good documentation ❤️
-
-**Special Thanks:**
-- All workshop participants for their valuable feedback
-- The open-source community for excellent tools
-- Write the Docs community for docs-as-code inspiration
-
----
-
-## Quick Start
-
-Ready to begin? Start here:
-
-1. **Fork** the [favorite-restaurants](https://github.com/AMD-melliott/favorite-restaurants) repository
-2. **Clone** it to your computer
-3. **Follow** the detailed README instructions
-4. **Complete** all five exercises
-5. **Celebrate** your new Git & GitHub skills! 🎉
-
----
-
-**Questions?** Check the troubleshooting sections in each exercise, or ask your instructor.
 
 **Happy learning!** 🚀
