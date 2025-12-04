@@ -36,6 +36,7 @@ Complete these exercises in order to build your skills progressively:
 ### 1. Favorite Restaurants 🍕
 
 **Skills:** Fork, clone, branch, commit, push, pull requests
+
 **Repo:** [(https://github.com/AMD-melliott/favorite-restaurants)](https://github.com/AMD-melliott/favorite-restaurants)
 
 Your first hands-on GitHub workflow! Contribute your favorite restaurant to a collaborative list.
@@ -55,6 +56,7 @@ Your first hands-on GitHub workflow! Contribute your favorite restaurant to a co
 ### 2. Style Guide Police 📝
 
 **Skills:** VS Code diff view, staging, visual Git workflow
+
 **Repo:** [(https://github.com/AMD-melliott/style-guide-police)](https://github.com/AMD-melliott/style-guide-police)
 
 Fix formatting errors in a press release using VS Code's GUI instead of command-line Git.
@@ -74,6 +76,7 @@ Fix formatting errors in a press release using VS Code's GUI instead of command-
 ### 3. Merge Conflict Simulator 🔥
 
 **Skills:** Conflict resolution, branching, merging
+
 **Repo:** [(https://github.com/AMD-melliott/merge-conflict-simulator)](https://github.com/AMD-melliott/merge-conflict-simulator)
 
 Practice resolving merge conflicts using VS Code's visual conflict resolution tools.
@@ -93,6 +96,7 @@ Practice resolving merge conflicts using VS Code's visual conflict resolution to
 ### 4. Release Notes Compiler 📄
 
 **Skills:** Multi-window editing, Markdown preview, documentation formatting
+
 **Repo:** [(https://github.com/AMD-melliott/release-notes-compiler)](https://github.com/AMD-melliott/release-notes-compiler)
 
 Combine multiple files into professional release notes using split view and live preview.
@@ -112,6 +116,7 @@ Combine multiple files into professional release notes using split view and live
 ### 5. Global Find & Replace 🔍
 
 **Skills:** Project-wide search and replace, batch commits, refactoring
+
 **Repo:** [(https://github.com/AMD-melliott/global-find-replace)](https://github.com/AMD-melliott/global-find-replace)
 
 Rebrand a product by replacing text across multiple files simultaneously.
